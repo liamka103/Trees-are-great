@@ -3,7 +3,8 @@
   <body>
       <p>Trees are great, Tim the Enchantor loves to burn them.</p>
       <br>
-       <a href="HTTP://192.168.20.15:1588"> The Black Knight is immortal </a>
-       <a href="HTTP://192.168.20.16:1066"> File of the NAS od Xigma </a>
+       <a href="HTTP://10.0.29.141"> The Black Knight is immortal </a>
+       </br>
+       <a href="HTTP://10.0.29.36"> File of the NAS od Xigma </a>
   </body>
 </html>
